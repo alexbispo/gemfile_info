@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = GemfileInfo::Version::STRING
   spec.authors       = ["Alex Bispo"]
 
-  spec.summary       = "Show a description about your Gemfile."
-  spec.homepage      = "https://github.com/alexbispo"
+  spec.summary       = "Shows a description about each gem in your Gemfile."
+  spec.homepage      = "https://github.com/alexbispo/gemfile_info"
   spec.license       = "MIT"
 
   # Specify which files should be added to the gem when it is released.
