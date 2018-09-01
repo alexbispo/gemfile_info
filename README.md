@@ -1,4 +1,4 @@
-# GemfileInfo
+# gemfile_info
 
 This gem shows a description about each gem in your Gemfile.
 
