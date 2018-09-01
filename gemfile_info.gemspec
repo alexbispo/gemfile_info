@@ -6,10 +6,9 @@ require "gemfile_info/version"
 Gem::Specification.new do |spec|
   spec.name          = "gemfile_info"
   spec.version       = GemfileInfo::Version::STRING
-  spec.authors       = ["alexbispo"]
-  spec.email         = ["alexbispo.artes@gmail.com"]
+  spec.authors       = ["Alex Bispo"]
 
-  spec.summary       = "Adds a description for gems in your Gemfile."
+  spec.summary       = "Show a description about your Gemfile."
   spec.homepage      = "https://github.com/alexbispo"
   spec.license       = "MIT"
 

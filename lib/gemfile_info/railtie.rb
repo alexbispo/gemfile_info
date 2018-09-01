@@ -1,5 +1,5 @@
 class GemfileInfo::Railtie < Rails::Railtie
   rake_tasks do
-    load 'tasks/write.rake'
+    load 'tasks/gemfile_info.rake'
   end
 end
